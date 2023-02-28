@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #afaff0;
+}
+
+header {
+    background-color: #008B8B;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+div {
+    background-color: #F8F8FF;
+    color: #008B8B;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
